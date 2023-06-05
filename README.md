@@ -7,3 +7,4 @@ Hello world!
 Hello world!
 
 This is a new paragraph (note the empty line).
+Hello world!
